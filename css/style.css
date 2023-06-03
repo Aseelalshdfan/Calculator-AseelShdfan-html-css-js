@@ -8,6 +8,8 @@ body{
     background-image: url(../image/pearls-blueprints-calculator-civil-engineering-wallpaper-preview.jpg);
     background-size: cover;
     font-family:cursive;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #mainbox{
