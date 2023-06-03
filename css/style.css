@@ -10,6 +10,8 @@ body{
     font-family:cursive;
     background-repeat: no-repeat;
     background-attachment: fixed;
+        background-position: center;
+
 }
 
 #mainbox{
